@@ -2086,7 +2086,6 @@ input, select, textarea {
 		width: 100%;
 		text-align: center;
 		position: relative;
-		top: 1.5em;
 	}
 
 		#logo h1 {
@@ -2108,8 +2107,8 @@ input, select, textarea {
 		}
 
 		#logo img {
-			width: 8em;
-			margin-bottom: 3em;
+			width: 10em;
+			margin-bottom: 1em;
 			
 		}
 
