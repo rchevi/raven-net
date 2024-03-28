@@ -405,6 +405,12 @@ input, select, textarea {
 				.row.gtr-50.gtr-uniform > * {
 					padding-top: 25px;
 				}
+		
+			#logoFinal{
+				margin-top: -20px;
+				margin-left: 150px;
+				width: 20em;
+			}
 
 		.row {
 			margin-top: -50px;
@@ -2523,6 +2529,11 @@ input, select, textarea {
 				.feature-list > .row > :first-child > section {
 					border-top: 0;
 					padding-top: 0;
+				}
+				
+				.iconoFinal{
+					display: inline;
+					position: absolute;
 				}
 
 		/* Nav */
